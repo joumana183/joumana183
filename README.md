@@ -88,7 +88,13 @@ A collection of C++ projects developed during my programming course, including m
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joumana183&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=joumana183&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=joumana183&theme=tokyo-night"
+    width="600"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 </div>
 
